@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jerry! 
+<h1>Hi, I'm Jerry!</h1>
+<b>Aspiring Front-End Developer, Technical Support Specialist, and UI/UX Designer who is passionate about building digital solutions that make life easier and more meaningful.</b>
+
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
 - <b>ALX Team Project</b>
